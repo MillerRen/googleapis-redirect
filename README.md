@@ -8,7 +8,7 @@ googleapis.com redirect to useso.com <br />
  * 下载本仓库代码
  * 打开chrome扩展开发者模式
  * 载入该文件夹
- * 打开[http://stackoverflow.com/](http://stackoverflow.com/)
+ * 打开[http://stackoverflow.com/](http://stackoverflow.com/)试试
  
 ## 说明
 

@@ -1,0 +1,12 @@
+{
+  "name": "google cdn mirror",
+  "description": "googleapis.com redirect to useso.com",
+  "version": "1.0",
+  "manifest_version": 2,
+  "background": {"scripts":["background.js"]},
+  "permissions": [
+    "webRequest",
+    "*://ajax.googleapis.com/*",
+    "webRequestBlocking"
+  ]
+}

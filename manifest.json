@@ -6,7 +6,7 @@
   "background": {"scripts":["background.js"]},
   "permissions": [
     "webRequest",
-    "*://ajax.googleapis.com/*",
+    "*://*.googleapis.com/*",
     "webRequestBlocking"
   ]
 }
